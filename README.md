@@ -26,5 +26,5 @@ pak::pak("simonpcouch/palpable")
 When users load the package, two new roles will be registered with the
 pal package:
 
-![A screen recording in RStudio. The pal addin is opened up and only the default pal roles are listed. Then, the package is loaded and the pal addin reopened, showing two new roles: boop and wop.](inst/examples.gif)
+![A screen recording in RStudio. The pal addin is opened up and only the default pal roles are listed. Then, the package is loaded and the pal addin reopened, showing two new roles: boop and wop.](https://github.com/simonpcouch/palpable/blob/main/inst/example.gif?raw=true)
 
