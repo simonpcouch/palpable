@@ -19,3 +19,5 @@ Imports:
     pal
 Remotes:
     simonpcouch/pal
+URL: https://github.com/simonpcouch/palpable
+BugReports: https://github.com/simonpcouch/palpable/issues
